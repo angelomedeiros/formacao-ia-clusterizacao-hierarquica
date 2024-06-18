@@ -12,7 +12,7 @@ scipy = "*"
 ipywidgets = "*"
 ipykernel = "*"
 optuna = "*"
-streamkit = "*"
+streamlit = "*"
 plotly = "*"
 nbformat = "*"
 
